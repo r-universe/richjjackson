@@ -5,3 +5,6 @@
 [submodule "psc"]
 	path = psc
 	url = https://github.com/richjjackson/psc
+[submodule "pscDesign"]
+	path = pscDesign
+	url = https://github.com/richjjackson/pscdesign
